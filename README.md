@@ -51,9 +51,9 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 
 ## 📈 GitHub Stats
 
-[![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabin012&show_icons=true&theme=radical&hide_border=true)](https://github.com/prabin012)
+[![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPrabin01&show_icons=true&theme=radical&hide_border=true)](https://github.com/iPrabin01)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabin012&layout=compact&theme=radical&hide_border=true)](https://github.com/prabin012)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPrabin01&layout=compact&theme=radical&hide_border=true)](https://github.com/iPrabin01)
 
 ---
 
