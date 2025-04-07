@@ -13,7 +13,11 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 🔹 **Philosophy:** *"Clean code + intuitive design = impactful solutions"*
 
 ---
+## 📈 GitHub Stats
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabin012&layout=compact&theme=radical&hide_border=true)](https://github.com/prabin012)
+
+---
 ## 🛠️ Tech Stack
 
 ### **Frontend**
@@ -36,35 +40,14 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 
 ---
 
-## 📚 Education
-
-**Jain University, Bengaluru**  
-🎓 *B.Tech in Information Science & Engineering* | 2020-2024  
-
-**NASA National Secondary School, Nepal**  
-📖 *+2 NEB (Science)* | 2018-2020  
-
-**Shree Ram Secondary School, Nepal**  
-📝 *SEE (School Education)* | 2008-2018  
-
----
-
-## 📈 GitHub Stats
-
-[![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iPrabin01&show_icons=true&theme=radical&hide_border=true)](https://github.com/iPrabin01)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iPrabin01&layout=compact&theme=radical&hide_border=true)](https://github.com/iPrabin01)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:youremail@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:prabinmahato415@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome)](https://prabinmahato.com.np)
 
 [![Download CV](https://img.shields.io/badge/-Download_CV-8A2BE2?style=for-the-badge&logo=adobe-acrobat-reader)](https://your-cv-link.com)
 
 ---
 
-⭐ *"First solve the problem. Then write the code." – John Johnson*
+⭐ *"First solve the problem. Then write the code." 
