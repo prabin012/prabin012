@@ -42,11 +42,10 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/iprabin)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:prabinmahato415@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome)](https://prabinmahato.com.np)
 
-[![Download CV](https://img.shields.io/badge/-Download_CV-8A2BE2?style=for-the-badge&logo=adobe-acrobat-reader)](https://your-cv-link.com)
 
 ---
 
