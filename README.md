@@ -7,6 +7,8 @@ Passionate about crafting seamless digital experiences with cutting-edge technol
 
 ## 🚀 Contributions in the last year [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/iPrabin01)
 
+[![Prabin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iPrabin01&theme=react-dark)](https://github.com/iPrabin01)
+
 ## 🚀 About Me
 
 I'm a **B.Tech Information Science graduate** with **1+ years of experience** in full-stack development. I thrive on solving complex problems and building scalable applications with elegant interfaces.
@@ -17,6 +19,7 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 ---
 ## 📈 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=iPrabin01&theme=dark&border_radius=5)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabin012&layout=compact&theme=radical&hide_border=true)](https://github.com/prabin012)
 
 ---
