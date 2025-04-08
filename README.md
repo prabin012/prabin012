@@ -4,6 +4,20 @@
 Passionate about crafting seamless digital experiences with cutting-edge technologies.
 
 ---
+## 🛠️ Work Experience
+
+### 🔹 **MERN Stack Developer** – *Ghum Nepal Innovation*  
+📍 *Kathmandu, Nepal* | 🗓️ *Aug 2024 – Present*  
+🔒 *Private Repositories (Company Projects)*  
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/-Apollo_Client-311C87?logo=apollo-graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 
 ## 🚀 Contributions in the last year [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/iPrabin01)
 
