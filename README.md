@@ -36,7 +36,6 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iPrabin01&theme=dark&border_radius=5)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabin012&layout=compact&theme=radical&hide_border=true)](https://github.com/prabin012)
-
 ---
 ## 🛠️ Tech Stack
 
