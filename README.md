@@ -5,7 +5,7 @@ Passionate about crafting seamless digital experiences with cutting-edge technol
 ---
 ## 🚀 Contributions in the last year [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/iPrabin01)
 
-[![Prabin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iPrabin01&theme=react-dark)](https://github.com/iPrabin01)
+[![Prabin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iprabin01&theme=react-dark)](https://github.com/iprabin01)
 
 ## 🚀 About Me
 
