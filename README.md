@@ -66,4 +66,4 @@ I'm a **B.Tech Information Science graduate** with **1+ years of experience** in
 
 ---
 
-⭐ *"First solve the problem. Then write the code." 
+⭐ *"First solve the problem. Then write the code" 
